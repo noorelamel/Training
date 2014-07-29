@@ -1,0 +1,4 @@
+E:\Workspaces\Training\Lynda\CSharp 2010\PathOperations\PathOperations\bin\Debug\PathOperations.exe
+E:\Workspaces\Training\Lynda\CSharp 2010\PathOperations\PathOperations\bin\Debug\PathOperations.pdb
+E:\Workspaces\Training\Lynda\CSharp 2010\PathOperations\PathOperations\obj\x86\Debug\PathOperations.exe
+E:\Workspaces\Training\Lynda\CSharp 2010\PathOperations\PathOperations\obj\x86\Debug\PathOperations.pdb

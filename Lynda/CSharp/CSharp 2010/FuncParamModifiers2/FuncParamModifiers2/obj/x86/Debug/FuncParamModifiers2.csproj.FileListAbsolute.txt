@@ -1,0 +1,4 @@
+E:\Workspaces\Training\Lynda\CSharp 2010\FuncParamModifiers2\FuncParamModifiers2\bin\Debug\FuncParamModifiers2.exe
+E:\Workspaces\Training\Lynda\CSharp 2010\FuncParamModifiers2\FuncParamModifiers2\bin\Debug\FuncParamModifiers2.pdb
+E:\Workspaces\Training\Lynda\CSharp 2010\FuncParamModifiers2\FuncParamModifiers2\obj\x86\Debug\FuncParamModifiers2.exe
+E:\Workspaces\Training\Lynda\CSharp 2010\FuncParamModifiers2\FuncParamModifiers2\obj\x86\Debug\FuncParamModifiers2.pdb

@@ -1,0 +1,4 @@
+E:\Workspaces\Training\Lynda\CSharp 2010\Existing\Existing\bin\Debug\Existing.exe
+E:\Workspaces\Training\Lynda\CSharp 2010\Existing\Existing\bin\Debug\Existing.pdb
+E:\Workspaces\Training\Lynda\CSharp 2010\Existing\Existing\obj\x86\Debug\Existing.exe
+E:\Workspaces\Training\Lynda\CSharp 2010\Existing\Existing\obj\x86\Debug\Existing.pdb

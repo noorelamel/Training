@@ -1,0 +1,5 @@
+E:\Workspaces\Training\Lynda\CSharp 2010\ConstAndEnum\ConstAndEnum\bin\Debug\ConstAndEnum.exe
+E:\Workspaces\Training\Lynda\CSharp 2010\ConstAndEnum\ConstAndEnum\bin\Debug\ConstAndEnum.pdb
+E:\Workspaces\Training\Lynda\CSharp 2010\ConstAndEnum\ConstAndEnum\obj\x86\Debug\ConstAndEnum.exe
+E:\Workspaces\Training\Lynda\CSharp 2010\ConstAndEnum\ConstAndEnum\obj\x86\Debug\ConstAndEnum.pdb
+E:\Workspaces\Training\Lynda\CSharp 2010\ConstAndEnum\ConstAndEnum\obj\x86\Debug\ConstAndEnum.csprojResolveAssemblyReference.cache

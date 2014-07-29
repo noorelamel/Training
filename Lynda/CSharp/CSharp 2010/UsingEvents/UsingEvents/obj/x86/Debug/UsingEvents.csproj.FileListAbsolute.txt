@@ -1,0 +1,4 @@
+E:\Workspaces\Training\Lynda\CSharp 2010\UsingEvents\UsingEvents\bin\Debug\UsingEvents.exe
+E:\Workspaces\Training\Lynda\CSharp 2010\UsingEvents\UsingEvents\bin\Debug\UsingEvents.pdb
+E:\Workspaces\Training\Lynda\CSharp 2010\UsingEvents\UsingEvents\obj\x86\Debug\UsingEvents.exe
+E:\Workspaces\Training\Lynda\CSharp 2010\UsingEvents\UsingEvents\obj\x86\Debug\UsingEvents.pdb

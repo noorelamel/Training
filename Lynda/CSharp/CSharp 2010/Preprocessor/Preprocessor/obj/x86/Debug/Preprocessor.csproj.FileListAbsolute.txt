@@ -1,0 +1,4 @@
+E:\Workspaces\Training\Lynda\CSharp 2010\Preprocessor\Preprocessor\bin\Debug\Preprocessor.exe
+E:\Workspaces\Training\Lynda\CSharp 2010\Preprocessor\Preprocessor\bin\Debug\Preprocessor.pdb
+E:\Workspaces\Training\Lynda\CSharp 2010\Preprocessor\Preprocessor\obj\x86\Debug\Preprocessor.exe
+E:\Workspaces\Training\Lynda\CSharp 2010\Preprocessor\Preprocessor\obj\x86\Debug\Preprocessor.pdb

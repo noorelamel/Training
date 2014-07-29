@@ -1,0 +1,4 @@
+E:\Workspaces\Training\Lynda\CSharp 2010\ReadingWritingData\ReadingWritingData\bin\Debug\ReadingWritingData.exe
+E:\Workspaces\Training\Lynda\CSharp 2010\ReadingWritingData\ReadingWritingData\bin\Debug\ReadingWritingData.pdb
+E:\Workspaces\Training\Lynda\CSharp 2010\ReadingWritingData\ReadingWritingData\obj\x86\Debug\ReadingWritingData.exe
+E:\Workspaces\Training\Lynda\CSharp 2010\ReadingWritingData\ReadingWritingData\obj\x86\Debug\ReadingWritingData.pdb

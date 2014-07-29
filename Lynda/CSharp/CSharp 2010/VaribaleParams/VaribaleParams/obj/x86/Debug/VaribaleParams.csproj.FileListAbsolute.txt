@@ -1,0 +1,4 @@
+E:\Workspaces\Training\Lynda\CSharp 2010\VaribaleParams\VaribaleParams\bin\Debug\VaribaleParams.exe
+E:\Workspaces\Training\Lynda\CSharp 2010\VaribaleParams\VaribaleParams\bin\Debug\VaribaleParams.pdb
+E:\Workspaces\Training\Lynda\CSharp 2010\VaribaleParams\VaribaleParams\obj\x86\Debug\VaribaleParams.exe
+E:\Workspaces\Training\Lynda\CSharp 2010\VaribaleParams\VaribaleParams\obj\x86\Debug\VaribaleParams.pdb

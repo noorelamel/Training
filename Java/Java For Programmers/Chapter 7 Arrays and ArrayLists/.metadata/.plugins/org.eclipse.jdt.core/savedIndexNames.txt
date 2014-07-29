@@ -1,4 +1,0 @@
-INDEX VERSION 1.126+C:\Workspaces\Training\Java\Java For Programmers\Chapter 7 Arrays and ArrayLists\.metadata\.plugins\org.eclipse.jdt.core
-1072268432.index
-1954839081.index
-757407670.index

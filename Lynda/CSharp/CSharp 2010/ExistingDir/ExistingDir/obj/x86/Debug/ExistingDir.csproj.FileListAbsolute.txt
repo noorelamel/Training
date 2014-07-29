@@ -1,0 +1,4 @@
+E:\Workspaces\Training\Lynda\CSharp 2010\ExistingDir\ExistingDir\bin\Debug\ExistingDir.exe
+E:\Workspaces\Training\Lynda\CSharp 2010\ExistingDir\ExistingDir\bin\Debug\ExistingDir.pdb
+E:\Workspaces\Training\Lynda\CSharp 2010\ExistingDir\ExistingDir\obj\x86\Debug\ExistingDir.exe
+E:\Workspaces\Training\Lynda\CSharp 2010\ExistingDir\ExistingDir\obj\x86\Debug\ExistingDir.pdb

@@ -1,0 +1,4 @@
+E:\Workspaces\Training\Lynda\CSharp 2010\UsingDelegates\UsingDelegates\bin\Debug\UsingDelegates.exe
+E:\Workspaces\Training\Lynda\CSharp 2010\UsingDelegates\UsingDelegates\bin\Debug\UsingDelegates.pdb
+E:\Workspaces\Training\Lynda\CSharp 2010\UsingDelegates\UsingDelegates\obj\x86\Debug\UsingDelegates.exe
+E:\Workspaces\Training\Lynda\CSharp 2010\UsingDelegates\UsingDelegates\obj\x86\Debug\UsingDelegates.pdb
