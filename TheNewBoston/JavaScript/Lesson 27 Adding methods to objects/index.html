@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lesson 27</title>
+
+    <script type="text/javascript">
+        function person(name, age){
+            this.name = name;
+            this.age = age;
+            this.yearsUntilRetire = retirement;
+        }
+
+        function retirement(){
+            var numYears = 65 - this.age;    // works with individual objects
+            return numYears;
+        }
+
+        var dan = new person("Dan", 45);
+        var carl = new person("Carl", 47);
+    </script>
+</head>
+<body>
+    <script type="text/javascript">
+        document.write(dan.name + " will retire in " + dan.yearsUntilRetire() + " years<br />");
+        document.write(carl.name + " will retire in " + carl.yearsUntilRetire() + " years<br />");
+    </script>
+
+</body>
+</html>

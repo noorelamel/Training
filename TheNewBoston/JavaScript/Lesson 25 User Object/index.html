@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lesson 25</title>
+    <!-- user object -->
+    <script type="text/javascript">
+        function  person(name,age){
+            this.name = name;
+            this.age = age;
+        }
+
+        var me = new person("Dan",45);
+        var tim = new person("Tim",22);
+    </script>
+</head>
+<body>
+<script type="text/javascript">
+    document.write(me.name + "<br />");
+    document.write(tim.age + "<br />");
+</script>
+
+</body>
+</html>

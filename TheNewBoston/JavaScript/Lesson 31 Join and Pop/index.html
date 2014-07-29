@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lesson 31</title>
+</head>
+<body>
+
+<script type="text/javascript">
+
+    var movies = new Array("Lord of the Rings", "The Hobbit", "Star Wars");
+    var movieString1 = movies.join("<br />");  // converts array into a string with all array elements
+
+    document.write(movies[0] + "<br />");
+    document.write(movieString1 + "<br />");
+    document.write(movies[2] + "<br />");
+    document.write("Length of movies array before pop() " + movies.length + "<br />");
+    movies.pop();
+    document.write("Length of movies array after pop() " + movies.length + "<br />");
+</script>
+
+</body>
+</html>
