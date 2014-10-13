@@ -12,14 +12,24 @@ public class HelloWorld {
 		Printer<BWCartridge> printer  = new Printer<BWCartridge>(true, "MY PRINTER", new BWCartridge());
 		Printer<ColorCartridge> printer2  = new Printer<ColorCartridge>(true, "MY PRINTER", new ColorCartridge());
 		
-		printOne(printer2);
+//		printOne(printer2);
 		//printer.printUsingCartridge(new ColorCartridge(), "Hi!");
 		//printer.print(1);
+		try{
+			printer.print(-1);
+		}
+		catch(IllegalArgumentException e){
+			System.out.println(e.getMessage());
+		}
+		finally{
+			printer.TurnOff();
+		}
 	}
 	
 	public static void printOne(Printer<? extends ICartridge> printer)
 	{
 		String fillPercentage = printer.getCartridge().getFillPercentage();
 		System.out.println(fillPercentage);
+	
 	}
 }

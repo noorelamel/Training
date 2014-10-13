@@ -33,6 +33,9 @@ public class Printer<T> implements IMachine
 	{
 		//System.out.println(cartridge.getFillPercentage());
 		
+            if(copies < 0){
+                throw new IllegalArgumentException("Cannot print less than 0 copies");
+            }
 		String onStatus = "";
 		if(machine.isOn())
 			onStatus = " is On!";
@@ -89,6 +92,7 @@ public class Printer<T> implements IMachine
 	@Override
 	public void TurnOff() {
 		machine.TurnOff();
+		System.out.println("The Machine is off");
 	}
 
 	@Override
