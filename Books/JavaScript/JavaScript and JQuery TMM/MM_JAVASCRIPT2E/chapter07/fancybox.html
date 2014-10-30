@@ -4,13 +4,22 @@
 <meta charset="UTF-8">
 <title>Fancybox</title>
 <link href="../_css/site.css" rel="stylesheet">
-
+<link href="fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet">
 <script src="../_js/jquery-1.7.2.min.js"></script>
 <script src="../_js/jquery.easing.1.3.js"></script>
-
+<script src="fancybox/jquery.fancybox-1.3.4.min.js"></script>
 <script>
 $(document).ready(function() {
-	
+	$('#gallery a').fancybox({
+		overlayColor: '#060',
+		overlayOpacity: .3,
+		transactionIn: 'elastic',
+		transactionOut: 'elastic',
+		easingIn: 'easeInSine',
+		easingOut: 'easeOutSine',
+		titlePositon: 'outside',
+		cyclic: true
+	});
 }); // end ready
 </script>
 </head>
@@ -25,12 +34,12 @@ $(document).ready(function() {
 	<div class="main">
 		<h1>Gallery</h1>
 		<div id="gallery">
-		<a href="../_images/large/slide1.jpg"><img src="../_images/small/slide1_h.jpg" width="70" height="70" alt="golf balls"></a>
-		<a href="../_images/large/slide2.jpg"><img src="../_images/small/slide2_h.jpg" width="70" height="70" alt="rock wall"></a>
-		<a href="../_images/large/slide3.jpg"><img src="../_images/small/slide3_h.jpg" width="70" height="70" alt="old course"></a>
-		<a href="../_images/large/slide4.jpg"><img src="../_images/small/slide4_h.jpg" width="70" height="70" alt="tees"></a>
-		<a href="../_images/large/slide5.jpg"><img src="../_images/small/slide5_h.jpg" width="70" height="70" alt="tree"></a>
-		<a href="../_images/large/slide6.jpg"><img src="../_images/small/slide6_h.jpg" width="70" height="70" alt="ocean course"></a></div>
+		<a href="../_images/large/slide1.jpg" rel="gallery" title="Lots a golf balls"><img src="../_images/small/slide1_h.jpg" width="70" height="70" alt="golf balls"></a>
+		<a href="../_images/large/slide2.jpg" rel="gallery" title="Rock Wall in the countryside"><img src="../_images/small/slide2_h.jpg" width="70" height="70" alt="rock wall"></a>
+		<a href="../_images/large/slide3.jpg" rel="gallery" title="Mansion"><img src="../_images/small/slide3_h.jpg" width="70" height="70" alt="old course"></a>
+		<a href="../_images/large/slide4.jpg" rel="gallery" title="Tall tees"><img src="../_images/small/slide4_h.jpg" width="70" height="70" alt="tees"></a>
+		<a href="../_images/large/slide5.jpg" rel="gallery" title="Tree"><img src="../_images/small/slide5_h.jpg" width="70" height="70" alt="tree"></a>
+		<a href="../_images/large/slide6.jpg" rel="gallery" title="Golfers"><img src="../_images/small/slide6_h.jpg" width="70" height="70" alt="ocean course"></a></div>
 	</div>
 </div>
 <div class="footer">

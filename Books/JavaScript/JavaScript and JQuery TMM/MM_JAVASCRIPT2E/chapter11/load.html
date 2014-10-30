@@ -28,7 +28,11 @@
 <script src="../_js/jquery-1.7.2.min.js"></script>
 <script>
 $(document).ready(function() {
-	
+	$('#newslinks a').click(function(){
+		var url = $(this).attr('href');
+		$('#headlines').load(url + ' #newsItem');
+		return false;
+	});
 
 			
 }); // end ready

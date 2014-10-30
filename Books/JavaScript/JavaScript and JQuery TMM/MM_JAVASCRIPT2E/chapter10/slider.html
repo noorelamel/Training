@@ -4,7 +4,14 @@
 <meta charset="UTF-8">
 <title>Anything Slider</title>
 <link href="../_css/site.css" rel="stylesheet">
-
+<link rel="stylesheet" href="anythingSlider/anythingslider.css">
+<script src="../_js/jquery-1.6.3.min.js"></script>
+<script src="anythingSlider/jquery.anythingslider.min.js"></script>
+<script>
+	$(document).ready(function(e) {
+        $('#slider').anythingSlider();
+    });
+</script>
 </head>
 <body>
 <div class="wrapper">
@@ -14,7 +21,17 @@
   <div class="content">
     <div class="main">
       <h1>Anything Slider</h1>
-      
+      <div id='slider'>
+      	<div>
+        	<a href="page1.html"><img src="images/pumpkin.jpg" width="700" height="390" alt="Pumpkin"></a>
+        </div>
+        <div>
+        	<a href="page2.html"><img src="images/grapes.jpg" width="700" height="390" alt="Grapes"></a>
+        </div>
+        <div>
+        	<a href="page3.html"><img src="images/various.jpg" width="700" height="390" alt="Various"></a>
+        </div>
+      </div>
       
     </div>
   </div>

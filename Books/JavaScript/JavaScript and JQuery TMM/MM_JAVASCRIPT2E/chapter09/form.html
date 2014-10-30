@@ -7,7 +7,27 @@
 <script src="../_js/jquery-1.7.2.min.js"></script>
 <script>
 $(document).ready(function() {
-
+	$(':text:first').focus();
+	
+	$('#paypal').click(function(){
+		$('#creditCard input').attr('disabled',true)
+			.css('backgroundColor','#CCC');
+		$('#creditCard label').css('color','#BBB');
+	});// end payPal click
+	
+	$('#visa, #mastercard').click(function(){
+		$('#creditCard input').attr('disabled',false).css('backgroundColor','');
+		$('#creditCard label').css('color','');
+	});// end creditCard click
+	
+	$('#hideShip').click(function(){
+		if($(this).attr('checked')){
+			$('#shipping').slideUp('fast');	
+		}
+		else{
+			$('#shipping').slideDown('fast');
+		}
+	}); // end hideShip clidk
 }); // end ready
 </script>
 </head>
