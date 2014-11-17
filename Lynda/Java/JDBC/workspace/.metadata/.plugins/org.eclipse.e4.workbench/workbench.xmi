@@ -3,7 +3,7 @@
   <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Main.java&quot; tooltip=&quot;Java7Test/src/com/lynda/javatraining/Main.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Java7Test/src/com/lynda/javatraining/Main.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_yz5hwmRNEeSyqOkZ5Vc30w" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_zFTa0mRNEeSyqOkZ5Vc30w" label="%trimmedwindow.label.eclipseSDK" x="2212" y="-11" width="1024" height="768">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_yz5hwmRNEeSyqOkZ5Vc30w" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_zFTa0mRNEeSyqOkZ5Vc30w" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1024" height="768">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workingSets/>"/>
@@ -267,7 +267,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_zIG3MGRNEeSyqOkZ5Vc30w" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_zIMWwGRNEeSyqOkZ5Vc30w" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_y0_HDmRNEeSyqOkZ5Vc30w"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_g8__MGuAEeSSKKiP0LPIjw" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_y0_HDmRNEeSyqOkZ5Vc30w"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_zIHeQGRNEeSyqOkZ5Vc30w" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -291,7 +291,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_zIIFUGRNEeSyqOkZ5Vc30w" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_zIQoMGRNEeSyqOkZ5Vc30w" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_y05nVWRNEeSyqOkZ5Vc30w"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_g9EQo2uAEeSSKKiP0LPIjw" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_y05nVWRNEeSyqOkZ5Vc30w"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_zIIFUWRNEeSyqOkZ5Vc30w" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
