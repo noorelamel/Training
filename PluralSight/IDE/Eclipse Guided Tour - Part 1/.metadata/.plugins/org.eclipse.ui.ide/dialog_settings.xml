@@ -156,4 +156,22 @@
 		<item value="org.tigris.subversion.subclipse.mylyn:3.0.0"/>
 		<item value="org.tigris.subversion.subclipse:1.10.6"/>
 	</list>
+	<section name="TaskPropertiesDialogSettings">
+		<item value="723" key="DIALOG_WIDTH"/>
+		<item value="360" key="DIALOG_Y_ORIGIN"/>
+		<item value="282" key="DIALOG_HEIGHT"/>
+		<item value="607" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="ResourceNavigator">
+		<item value="Aggregate for window 1416352619198" key="ResourceWorkingSetFilter.STORE_WORKING_SET"/>
+		<item value="1" key="ResourceViewer.STORE_SORT_TYPE"/>
+	</section>
+	<section name="CleanDialogSettings">
+		<item value="500" key="DIALOG_WIDTH"/>
+		<item value="289" key="DIALOG_Y_ORIGIN"/>
+		<item value="377" key="DIALOG_HEIGHT"/>
+		<item value="4550" key="DIALOG_X_ORIGIN"/>
+		<item value="true" key="TOGGLE_SELECTED"/>
+	</section>
 </section>

@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1416864759467_1" label="Demo" name="Demo">
+<item elementID="=JUnit/src&lt;junit.awtui" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=JUnit/src&lt;junit.runner" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=JUnit/src&lt;junit.extensions" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=JUnit/src&lt;junit.framework" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1416352619198_0" label="Window Working Set" name="Aggregate for window 1416352619198"/>
 </workingSetManager>
