@@ -19,7 +19,7 @@ public class Logo extends Canvas {
 			tracker.waitForAll();
 		} catch (Exception e) {
 		}
-
+	
 		if (fImage != null) {
 			fWidth= fImage.getWidth(this);
 			fHeight= fImage.getHeight(this);
@@ -29,7 +29,7 @@ public class Logo extends Canvas {
 		}
 		setSize(fWidth, fHeight);
 	}
-	
+
 	public Image loadImage(String name) {
 		Toolkit toolkit= Toolkit.getDefaultToolkit();
 		try {
