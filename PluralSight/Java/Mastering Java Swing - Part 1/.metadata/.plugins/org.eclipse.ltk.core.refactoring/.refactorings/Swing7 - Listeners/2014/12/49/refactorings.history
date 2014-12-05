@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 5 elements to &apos;Swing8 - Size/src&apos;&#x0D;&#x0A;- Original project: &apos;Swing7 - Listeners&apos;&#x0D;&#x0A;- Destination element: &apos;Swing8 - Size/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     MainFrame.java&#x0D;&#x0A;     Toolbar.java&#x0D;&#x0A;     TextPanel.java&#x0D;&#x0A;     App.java&#x0D;&#x0A;     StringListener.java" description="Copy compilation units" destination="=Swing8 - Size/src" element1="/src&lt;{MainFrame.java" element2="/src&lt;{Toolbar.java" element3="/src&lt;{TextPanel.java" element4="/src&lt;{App.java" element5="/src&lt;{StringListener.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1417818981288" units="5" version="1.0"/>
+</session>
