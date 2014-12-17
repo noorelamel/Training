@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="true" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\WorkSpaces\Training\Lynda\Java\XML Integration with Java\Exercise Files\02_SAX\SAXCaptureText.zip"/>
+			<item value="C:\WorkSpaces\Training\Lynda\Java\XML Integration with Java\Exercise Files\02_SAX\SAXTrackElements.zip"/>
+			<item value="C:\WorkSpaces\Training\Lynda\Java\XML Integration with Java\Exercise Files\02_SAX\SAXEventHandler.zip"/>
+			<item value="C:\WorkSpaces\Training\Lynda\Java\XML Integration with Java\Exercise Files\01_GettingStarted\DataProvider.zip"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>

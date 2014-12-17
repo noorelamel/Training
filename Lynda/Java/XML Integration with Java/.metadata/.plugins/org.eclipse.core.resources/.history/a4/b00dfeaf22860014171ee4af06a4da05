@@ -1,0 +1,24 @@
+package com.example.sax.read;
+
+import java.util.List;
+
+import org.xml.sax.SAXException;
+import org.xml.sax.helpers.DefaultHandler;
+
+@SuppressWarnings("unused")
+public class SAXCustomerHandler extends DefaultHandler{
+
+	private List<Customer> data;
+	private static final String XMLDATEFORMAT = "yyyy-MM-dd'T'HH:mm:ss";
+
+	public List<Customer> readDataFromXML(String filename) {
+		
+		return data;
+	}
+	
+	@Override
+	public void startDocument() throws SAXException {
+		
+		System.out.println("Start Document");
+	}
+}
