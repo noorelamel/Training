@@ -117,7 +117,8 @@ public class SAXCustomerHandler extends DefaultHandler {
 			}
 			break;
 		default:
-				break;
+			currentText = new StringBuilder();
+			break;
 		}
 		
 		currentElement = "";

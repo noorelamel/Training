@@ -10,10 +10,11 @@
 			<item value=""/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\WorkSpaces\Training\Lynda\Java\XML Integration with Java\Exercise Files\02_SAX\SAXErrors.zip"/>
+			<item value="C:\WorkSpaces\Training\Lynda\Java\XML Integration with Java\Exercise Files\02_SAX\SAXNamespaces.zip"/>
 			<item value="C:\WorkSpaces\Training\Lynda\Java\XML Integration with Java\Exercise Files\02_SAX\SAXCaptureText.zip"/>
 			<item value="C:\WorkSpaces\Training\Lynda\Java\XML Integration with Java\Exercise Files\02_SAX\SAXTrackElements.zip"/>
 			<item value="C:\WorkSpaces\Training\Lynda\Java\XML Integration with Java\Exercise Files\02_SAX\SAXEventHandler.zip"/>
-			<item value="C:\WorkSpaces\Training\Lynda\Java\XML Integration with Java\Exercise Files\01_GettingStarted\DataProvider.zip"/>
 		</list>
 	</section>
 	<section name="NewWizardAction">
