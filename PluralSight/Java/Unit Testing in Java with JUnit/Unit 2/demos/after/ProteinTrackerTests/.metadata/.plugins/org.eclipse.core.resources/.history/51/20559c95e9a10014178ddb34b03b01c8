@@ -1,0 +1,13 @@
+package com.simpleprogrammer.proteintracker;
+
+import org.junit.Test;
+import static org.junit.Assert.*;
+
+public class TrackingServiceTest {
+	@Test
+	public void newTrackingTotalIsZero_Test(){
+		TrackingService service = new TrackingService();
+		assertTrue(service.getTotal() == 0);
+		assertEquals("Tracking service was not zero", 0., service.getTotal());
+	}
+}
