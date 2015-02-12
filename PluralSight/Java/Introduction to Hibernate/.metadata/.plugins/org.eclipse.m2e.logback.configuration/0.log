@@ -1,0 +1,4 @@
+2015-02-06 12:25:19,573 [main] WARN  o.h.util.xpl.DTDEntityResolver - recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2015-02-06 14:41:26,016 [Worker-39] WARN  o.h.util.xpl.DTDEntityResolver - recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2015-02-06 14:41:27,780 [Worker-39] WARN  o.h.util.xpl.DTDEntityResolver - recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2015-02-06 14:41:34,828 [Worker-19] WARN  o.h.util.xpl.DTDEntityResolver - recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
